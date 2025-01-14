@@ -1,4 +1,4 @@
-# End-to-end-Text-Summarizer
+# SummarAI-End-to-End-Automated-Text-Summarization
 
 
 ## Workflows
